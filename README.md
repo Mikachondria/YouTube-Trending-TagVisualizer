@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/GraphicalCode/YouTube-Trending-TagVisualizer)](https://repl.it/github/GraphicalCode/YouTube-Trending-TagVisualizer)
+
 # YouTube Trending Tag Visualizer 
 
 Generates a word cloud based on the most popular tags on YouTube trending videos.
